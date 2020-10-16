@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\TcpServerBook\TcpServerBook\bin\Debug\TcpServerBook.exe.config
+C:\Users\User\source\repos\TcpServerBook\TcpServerBook\bin\Debug\TcpServerBook.exe
+C:\Users\User\source\repos\TcpServerBook\TcpServerBook\bin\Debug\TcpServerBook.pdb
+C:\Users\User\source\repos\TcpServerBook\TcpServerBook\obj\Debug\TcpServerBook.exe
+C:\Users\User\source\repos\TcpServerBook\TcpServerBook\obj\Debug\TcpServerBook.pdb
+C:\Users\User\source\repos\TcpServerBook\TcpServerBook\obj\Debug\TcpServerBook.csprojAssemblyReference.cache
+C:\Users\User\source\repos\TcpServerBook\TcpServerBook\bin\Debug\MandatoryAssignment1.dll
+C:\Users\User\source\repos\TcpServerBook\TcpServerBook\bin\Debug\MandatoryAssignment1.pdb
+C:\Users\User\source\repos\TcpServerBook\TcpServerBook\obj\Debug\TcpServerBook.csproj.CopyComplete
